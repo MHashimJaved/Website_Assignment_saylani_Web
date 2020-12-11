@@ -1,0 +1,71 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    /* font-family: Georgia, 'Times New Roman', Times, serif; */
+    list-style: none;
+}
+.topbutton a{
+    padding: 2px;
+    border: 1px solid black;
+    border-radius: 0px;
+}
+
+li:hover{
+    background-color: rgb(64, 216, 84);
+    border-radius: 25px;
+}
+ .nav-item{
+    float: right;
+    font-weight: bold;
+    color: black;  
+    
+}
+
+.line{
+    height: 30px;
+    max-width: 1200px;
+    margin: 20px auto;
+
+}
+.heading1{
+    
+   font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.blue{
+    color: blue;
+}
+
+.green{
+    color: green;
+}
+
+
+.white{
+    color: white;
+}
+
+.WhatWeAreDoing{
+    
+   font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.subdiv{
+    box-shadow: 0 0 20px grey;
+padding-top: 40px;
+   
+}
+
+
+ .greenline{
+     width: 70px;
+     height: 3px;
+     background-color: green;
+     display: block;
+ }
+
+ .UpcomoingProject marquee{
+     height: 200px;
+ }
+ 
